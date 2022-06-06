@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/script-wiz-ui/static/css/main.7a66c1cb.chunk.css",
+    "main.js": "/script-wiz-ui/static/js/main.717d8d98.chunk.js",
+    "main.js.map": "/script-wiz-ui/static/js/main.717d8d98.chunk.js.map",
+    "runtime-main.js": "/script-wiz-ui/static/js/runtime-main.143b7111.js",
+    "runtime-main.js.map": "/script-wiz-ui/static/js/runtime-main.143b7111.js.map",
+    "static/css/2.c1329997.chunk.css": "/script-wiz-ui/static/css/2.c1329997.chunk.css",
+    "static/js/2.19a41912.chunk.js": "/script-wiz-ui/static/js/2.19a41912.chunk.js",
+    "static/js/2.19a41912.chunk.js.map": "/script-wiz-ui/static/js/2.19a41912.chunk.js.map",
+    "static/js/3.ea57c4bb.chunk.js": "/script-wiz-ui/static/js/3.ea57c4bb.chunk.js",
+    "static/js/3.ea57c4bb.chunk.js.map": "/script-wiz-ui/static/js/3.ea57c4bb.chunk.js.map",
+    "index.html": "/script-wiz-ui/index.html",
+    "static/css/2.c1329997.chunk.css.map": "/script-wiz-ui/static/css/2.c1329997.chunk.css.map",
+    "static/css/main.7a66c1cb.chunk.css.map": "/script-wiz-ui/static/css/main.7a66c1cb.chunk.css.map",
+    "static/js/2.19a41912.chunk.js.LICENSE.txt": "/script-wiz-ui/static/js/2.19a41912.chunk.js.LICENSE.txt",
+    "static/media/transparent_white.61fb0076.png": "/script-wiz-ui/static/media/transparent_white.61fb0076.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.143b7111.js",
+    "static/css/2.c1329997.chunk.css",
+    "static/js/2.19a41912.chunk.js",
+    "static/css/main.7a66c1cb.chunk.css",
+    "static/js/main.717d8d98.chunk.js"
+  ]
+}
